@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Joni Bastian! 👋
 
-<!--
-**jonibastian/jonibastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- I'm 3rd-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id/)
+- Studying Machine Learning Path at [Bangkit 2022](https://grow.google/intl/id_id/bangkit/)
+- My another GitHub account at [here](https://github.com/jobas5/)
+- Leading my team for [capstone company-based project of Bangkit 2022](https://github.com/Traveloka-Hotel-Ranking/) 
 
-Here are some ideas to get you started:
+## ❤️ Likes
+Data Entusiast, teaching, cats, volunteering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Heat me Up
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonibastian/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jobass_03)
+
+## 🛠 Tools
+Python, HTML, CSS, Javascript, SQL
