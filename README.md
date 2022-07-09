@@ -7,7 +7,7 @@
 - Leading my team for [capstone company-based project of Bangkit 2022](https://github.com/Traveloka-Hotel-Ranking/) 
 
 ## ❤️ Likes
-Data Entusiast, teaching, cats, volunteering
+Data stuff, teaching, cats, volunteering
 
 ## 🔗 Heat me Up
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonibastian/)
